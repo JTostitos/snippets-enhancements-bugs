@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+<p align="center">
+<img src="https://user-images.githubusercontent.com/17661536/181813316-bddd46f7-150a-4bbd-abf1-17ef8b7d4f8b.png" width=200 />
+</p>
 
-You can use the [editor on GitHub](https://github.com/JTostitos/Snippets-BugReporter/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Snippets Enhancements and Bug Tracker Repository
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use this github repository to request enhancements or report bugs on the [issues page](https://github.com/JTostitos/snippets-enhancements-bugs/issues). I'm the only person developing Snippets so ehancements or bugs will not be made, fixed, or released instantly. Please still report them though so I can work on it as soon as humanly possible 🙂.
 
-### Markdown
+### How can you request an enhancement or report a bug?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Please Note:** The enhancement or bug you want to report may have already been added to the issues page. Please do a search first and please contribute to that existing issue if you have something to add.
 
-```markdown
-Syntax highlighted code block
+To contrinute to the issues page, GitHub requires you to create a free account. You can [click here](https://github.com/) to do so. Then, go to the [issues page](https://github.com/JTostitos/snippets-enhancements-bugs/issues), click the "New Issue” button, fill out the form and choose a "label" to add to the issue. **Please** include as much information about the enhancement you are requesting or bug you are reporting as possible. Please also be polite and refrain from using profanity or innuendos when using the issues page and conversing with others. This repository needs to be a safe place to report issues.
 
-# Header 1
-## Header 2
-### Header 3
+**Please** stay *on-topic* to the issue report that you are participating in. Please do not post memes. If you have the same issue or want the same enhancement but have no further information to add, please use the reactions button to do so instead of creating a new comment.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JTostitos/Snippets-BugReporter/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###### Thanks for helping make Snippets Great! - Jonathan T.
