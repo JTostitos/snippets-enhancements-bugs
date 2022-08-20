@@ -7,5 +7,5 @@ Snippets Privacy Policy
 </h1>
 
 <p align="center">
-Snippets and its developer consider your privacy. We do not sell or rent your data, and no information is collected about you or how you use Snippets. If you have any questions, please contact EMAIL HERE.
+Snippets Studio and its developer consider your privacy. We do not sell or rent your data, and no information is collected about you or how you use Snippets Studio. If you have any questions, please contact SnippetsStudio@outlook.com.
 </p>
