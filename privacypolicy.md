@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-Snippets Privacy Policy
+Snippets Studio Privacy Policy
 </h1>
 
 <p align="center">
