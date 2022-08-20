@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-Snippets License Agreement
+Snippets Studio License Agreement
 </h1>
   
 
