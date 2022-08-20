@@ -2,9 +2,9 @@
 <img src="https://user-images.githubusercontent.com/17661536/181813316-bddd46f7-150a-4bbd-abf1-17ef8b7d4f8b.png" width=200 />
 </p>
 
-## Snippets Enhancements and Bug Tracker Repository
+## Snippets Studio Enhancements and Bug Tracker Repository
 
-You can use this github repository to request enhancements or report bugs on the [issues page](https://github.com/JTostitos/snippets-enhancements-bugs/issues). I'm the only person developing Snippets so ehancements or bugs will not be made, fixed, or released instantly. Please still report them though so I can work on it as soon as humanly possible 🙂.
+You can use this github repository to request enhancements or report bugs on the [issues page](https://github.com/JTostitos/snippets-enhancements-bugs/issues). I'm the only person developing Snippets Studio so enhancements or bugs will not be made, fixed, or released instantly. Please still report them though so I can work on it as soon as possible 🙂.
 
 ### How can you request an enhancement or report a bug?
 
@@ -14,4 +14,4 @@ To contrinute to the issues page, GitHub requires you to create a free account. 
 
 **Please** stay *on-topic* to the issue report that you are participating in. Please do not post memes. If you have the same issue or want the same enhancement but have no further information to add, please use the reactions button to do so instead of creating a new comment.
 
-###### Thanks for helping make Snippets Great! - Jonathan T.
+###### Thanks for helping make Snippets Studio a great app! - Jonathan T.
