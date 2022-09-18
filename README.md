@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/17661536/181813316-bddd46f7-150a-4bbd-abf1-17ef8b7d4f8b.png" width=200 />
+<img width="256" alt="mac1024" src="https://user-images.githubusercontent.com/17661536/190880375-ab2a3d2e-59e3-4c3c-b95a-49d6232bcdd9.png">
 </p>
 
 ## Snippets Studio Enhancements and Bug Tracker Repository
