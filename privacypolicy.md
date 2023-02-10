@@ -6,4 +6,4 @@
 Snippets Studio Privacy Policy
 </h1>
 
-Snippets Studio and its developer consider your privacy. We do not sell or rent your data, and no information is collected about you or how you use Snippets Studio. The exception is purchase information which is collected by the framework RevenueCat, which is included in Snippets Studio to process in-app purchases. This data ***is not*** linked to your identity and is needed to enable features, and prevent fraud. If you have any questions, please contact SnippetsStudio@outlook.com.
+Snippets Studio and its developer consider user privacy very seriously. We do not sell or rent your data, and no information is collected about you or how you use Snippets Studio. The exception is purchase information which is collected by a payment processor framework, which is included in Snippets Studio to process in-app purchases. This data ***is not*** linked to your identity and required to enable features, and prevent fraud. If you have any questions, please contact SnippetsStudio@outlook.com.
